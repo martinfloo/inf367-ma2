@@ -1,1 +1,3 @@
-# inf367-ma2
+# QNN Implementation
+---
+### Implementation of a Quantum Neural Network utilizing Qiskit and Sklearn.
